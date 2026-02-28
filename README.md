@@ -1,4 +1,4 @@
-##📦 onekey-suoha 一键梭哈脚本
+## 📦 onekey-suoha 一键梭哈脚本
 
 onekey-suoha 是一个用于在 Linux 系统上一键部署 Xray + Cloudflared 通过 Cloudflare Argo / Tunnel 快捷生成科学上网（V2Ray / VLESS）链接的 Bash 脚本。
 
